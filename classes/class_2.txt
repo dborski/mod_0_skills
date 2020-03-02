@@ -1,0 +1,13 @@
+Customer
+
+attributes:
+hungry (boolean)
+food_allergies (array)
+name (string)
+drink_tokens (integer)
+
+methods:
+eat (changes hungry boolean)
+add_food_allergy (changes food_allergies array)
+add_name (changes name string)
+use_token (changes drink_tokens integer)
