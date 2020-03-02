@@ -1,0 +1,13 @@
+customer_235
+
+attributes:
+hungry: true
+food_allergies: ["dairy", "gluten"]
+name: "Wendy Peffercorn"
+drink_tokens: 5
+
+methods:
+eat: hungry = false
+add_food_allergy: food_allergies = ["dairy", "gluten", "peanuts"]
+add_name: name = "Wendy Peffercorn"
+use_token: drink_tokens = 4
