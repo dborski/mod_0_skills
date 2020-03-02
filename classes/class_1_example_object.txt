@@ -1,0 +1,17 @@
+fiery_bbq_burger
+
+attributes:
+meat_temp: "medium"
+toppings: ["lettuce", "pickles", "pepper jack"]
+sauces: ["bbq", "spicy aioli"]
+sliced: true
+patties: 2
+spicy: true
+
+methods:
+cook: meat_temp = "medium"
+add_topping: toppings = ["lettuce", "pickles", "pepper jack", "jalapenos"]
+add_sauce: sauces = ["bbq", "spicy aioli", "chili sauce"]
+cut_in_half: sliced = true
+double_up: patties = 2
+make_spicy: spicy = true
