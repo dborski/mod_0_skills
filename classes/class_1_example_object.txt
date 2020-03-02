@@ -4,9 +4,9 @@ attributes:
 meat_temp: "medium"
 toppings: ["lettuce", "pickles", "pepper jack"]
 sauces: ["bbq", "spicy aioli"]
-sliced: true
-patties: 2
-spicy: true
+sliced: false
+patties: 1
+spicy: false
 
 methods:
 cook: meat_temp = "medium"
