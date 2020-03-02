@@ -6,10 +6,12 @@ toppings (array)
 sauces (array)
 sliced (boolean)
 patties (integer)
+spicy (boolean)
 
 methods:
-cook (changes meat temp string)
+cook_medium (changes meat temp string)
 add_topping (changes toppings attribute)
 add_sauce (changes sauces array)
 cut_in_half (changes sliced attribute)
 double_up (changes patties integer)
+make_spicy (changes spicy boolean)
