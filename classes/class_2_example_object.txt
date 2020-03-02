@@ -3,7 +3,7 @@ customer_235
 attributes:
 hungry: true
 food_allergies: ["dairy", "gluten"]
-name: "Wendy Peffercorn"
+name:
 drink_tokens: 5
 
 methods:
