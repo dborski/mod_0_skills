@@ -1,0 +1,13 @@
+food = "cheesesteak"
+is_delicious = true
+food = "animal crackers"
+
+num2 = 9
+num7 = 45
+quotient = num7 / num2
+
+songs = ["Purple Rain", "Margaritaville", "Yellow Submarine"]
+songs.shift
+
+puts "How many characters are in the food string?"
+puts food.size
