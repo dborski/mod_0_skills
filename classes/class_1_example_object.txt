@@ -9,7 +9,7 @@ patties: 1
 spicy: false
 
 methods:
-cook: meat_temp = "medium"
+cook_medium: meat_temp = "medium"
 add_topping: toppings = ["lettuce", "pickles", "pepper jack", "jalapenos"]
 add_sauce: sauces = ["bbq", "spicy aioli", "chili sauce"]
 cut_in_half: sliced = true
